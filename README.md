@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://readme-quote-generator.vercel.app/api/quote" alt="Dynamic Quote" width="600"/>
-</p>
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 
 
 ---
@@ -26,7 +25,7 @@
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/https://www.linkedin.com/in/hirushi-siriwardhana-392754285?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuyN%2FEleWTxuxfNUAiSJFHA%3D%3D)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirushiviranga)  
-### 🚀 Tech Stack  
+
 
 #### 🛠️ **Languages & Tools**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
@@ -47,13 +46,13 @@
 ## 📊 **GitHub Stats**  
 
 ### **Most Used Languages**
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirushiviranga&layout=compact&theme=dark)  
 
 ### **Overall GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=dark)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hirushiviranga&show_icons=true&theme=dark)  
 
 🚀 “Code, Learn, Innovate”
-Feel free to connect, collaborate, or check out my repositories! 😊-->
+Feel free to connect, collaborate, or check out my repositories! 😊
 
 
 
